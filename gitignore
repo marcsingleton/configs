@@ -1,0 +1,28 @@
+# Data science project directories
+/bin/
+/code/notebooks/
+/data/
+/docs/
+/logs/
+/results/
+/results_old/
+/temp/
+
+# Nextflow files
+/.nextflow/
+/work/
+/.nextflow.log*
+
+# Snakemake directories
+/.snakemake/
+
+# IDE directories
+/.vscode/  # VS Code
+/.idea/  # PyCharm
+
+# Any directories
+__pycache__/
+.ipynb_checkpoints/
+
+# Files
+.DS_Store

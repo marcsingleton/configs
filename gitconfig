@@ -1,0 +1,5 @@
+[user]
+ 	name = Marc Singleton
+	email = marcsingleton@berkeley.edu
+[pull]
+	ff = only  # Fast-forward only
