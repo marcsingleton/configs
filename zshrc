@@ -7,6 +7,9 @@ export PATH=$PATH:/opt/local/bin/  # Add MacPorts directory
 
 # aliases
 alias ls='ls -G'
+alias ll='ls -lG'
+alias lA='ls -AG'
+alias llA='ls -lAG'
 alias less='less -M'  # Display extra info at prompt
 
 # zsh history
