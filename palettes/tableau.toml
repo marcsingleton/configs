@@ -1,124 +1,124 @@
 [tableau10]
-blue = "4E79A7"
-orange = "F28E2B"
-red = "E15759"
-cyan = "76B7B2"
-green = "59A14F"
-yellow = "EDC948"
-purple = "B07AA1"
-pink = "FF9DA7"
-brown = "9C755F"
-grey = "BAB0AC"
+blue = "#4E79A7"
+orange = "#F28E2B"
+red = "#E15759"
+cyan = "#76B7B2"
+green = "#59A14F"
+yellow = "#EDC948"
+purple = "#B07AA1"
+pink = "#FF9DA7"
+brown = "#9C755F"
+grey = "#BAB0AC"
 
 [tableau20]
-blue = "4E79A7"
-light_blue = "A0CBE8"
-orange = "F28E2B"
-light_orange = "FFBE7D"
-red = "E15759"
-pink = "FF9D9A"
-cyan = "499894"
-light_cyan = "86BCB6"
-green = "59A14F"
-light_green = "8CD17D"
-dark_yellow = "B6992D"
-yellow = "F1CE63"
-purple = "B07AA1"
-light_purple = "D4A6C8"
-maroon = "D37295"
-light_maroon = "FABFD2"
-brown = "9D7660"
-light_brown = "D7B5A6"
-dark_grey = "79706E"
-grey = "BAB0AC"
+blue = "#4E79A7"
+light_blue = "#A0CBE8"
+orange = "#F28E2B"
+light_orange = "#FFBE7D"
+red = "#E15759"
+pink = "#FF9D9A"
+cyan = "#499894"
+light_cyan = "#86BCB6"
+green = "#59A14F"
+light_green = "#8CD17D"
+dark_yellow = "#B6992D"
+yellow = "#F1CE63"
+purple = "#B07AA1"
+light_purple = "#D4A6C8"
+maroon = "#D37295"
+light_maroon = "#FABFD2"
+brown = "#9D7660"
+light_brown = "#D7B5A6"
+dark_grey = "#79706E"
+grey = "#BAB0AC"
 
 [gradients]
 blacks = [
-    "000000",
-    "1B1B1B",
-    "333333",
-    "555555",
-    "666666",
-    "898989",
+    '#000000',
+    '#1B1B1B',
+    '#333333',
+    '#555555',
+    '#666666',
+    '#898989',
 ]
 
 whites = [
-    "FFFFFF",
-    "F5F5F5",
-    "E6E6E6",
-    "D4D4D4",
-    "C0C0C0",
-    "B4B4B4",
+    '#FFFFFF',
+    '#F5F5F5',
+    '#E6E6E6',
+    '#D4D4D4',
+    '#C0C0C0',
+    '#B4B4B4',
 ]
 
 oranges = [
-    "F28E2B",
-    "F9A655",
-    "FFBE7D",
+    '#F28E2B',
+    '#F9A655',
+    '#FFBE7D',
 ]
 
 yellows = [
-    "B6992D",
-    "D3B348",
-    "F1CE63",
+    '#B6992D',
+    '#D3B348',
+    '#F1CE63',
 ]
 
 greens = [
-    "59A14F",
-    "72B966",
-    "8CD17D",
+    '#59A14F',
+    '#72B966',
+    '#8CD17D',
 ]
 
 cyans = [
-    "499894",
-    "69AAA5",
-    "86BCB6",
+    '#499894',
+    '#69AAA5',
+    '#86BCB6',
 ]
 
 blues = [
-    "4E79A7",
-    "75A1C7",
-    "A0CBE8",
+    '#4E79A7',
+    '#75A1C7',
+    '#A0CBE8',
 ]
 
-blue-greys = [
-    "606B76",
-    "818B91",
-    "A7ACAD",
+blue_greys = [
+    '#606B76',
+    '#818B91',
+    '#A7ACAD',
 ]
 
 purples = [
-    "B07AA1",
-    "C290B4",
-    "D4A6C8",
+    '#B07AA1',
+    '#C290B4',
+    '#D4A6C8',
 ]
 
 pinks = [
-    "D37295",
-    "E799B3",
-    "FABFD2",
+    '#D37295',
+    '#E799B3',
+    '#FABFD2',
 ]
 
 reds = [
-    "E15759",
-    "F17B79",
-    "FF9D9A",
+    '#E15759',
+    '#F17B79',
+    '#FF9D9A',
 ]
 
 browns = [
-    "9D7660",
-    "BA9582",
-    "D7B5A6",
+    '#9D7660',
+    '#BA9582',
+    '#D7B5A6',
 ]
 
 greys = [
-    "79706E",
-    "998F8C",
-    "BAB0AC",
+    '#79706E',
+    '#998F8C',
+    '#BAB0AC',
 ]
 
 highlights = [
-    "76B7B2",
-    "FF9DA7",
-    "EDC948",
+    "#76B7B2",
+    "#FF9DA7",
+    "#EDC948",
 ]
