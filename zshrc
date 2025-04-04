@@ -12,6 +12,9 @@ alias lA='ls -AG'
 alias llA='ls -lAG'
 alias less='less -M'  # Display extra info at prompt
 
+# terminal
+stty -ixon  # Disable START/STOP output control; prevents terminal driver from intercepting ^Q, ^S 
+
 # zsh history
 # Not necessary for MacOS since configuration pulled from /etc/zshrc
 export HISTFILE=~/.zsh_history
