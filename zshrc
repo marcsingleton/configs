@@ -2,6 +2,16 @@
 export PS1='%n%F{cyan}@%f%m %F{green}[%3~]%f$ '
 export LSCOLORS=fxgxcxdxbxegedabagacad
 
+# words
+WORDCHARS='*?_-.[]~=&;:!#$%^(){}<>'
+backward-kill-path () {
+    local WORDCHARS=${WORDCHARS}/
+    zle backward-kill-word
+    zle -f kill
+}
+zle -N backward-kill-path
+bindkey '^[w' backward-kill-path
+
 # path
 export PATH=$PATH:/opt/local/bin/  # Add MacPorts directory
 
