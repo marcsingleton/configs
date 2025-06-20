@@ -1,4 +1,4 @@
-[tableau10]
+[tableau_10]
 blue = "#4E79A7"
 orange = "#F28E2B"
 red = "#E15759"
@@ -10,7 +10,7 @@ pink = "#FF9DA7"
 brown = "#9C755F"
 grey = "#BAB0AC"
 
-[tableau20]
+[tableau_20]
 blue = "#4E79A7"
 orange = "#F28E2B"
 red = "#E15759"
