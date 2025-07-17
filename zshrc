@@ -12,6 +12,9 @@ backward-kill-path () {
 zle -N backward-kill-path
 bindkey '^[w' backward-kill-path
 
+# errors
+unset -f command_not_found_handler  # Necessary for some distros that meddle with the default
+
 # path
 export PATH=$PATH:/opt/local/bin/  # Add MacPorts directory
 
