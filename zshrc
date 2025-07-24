@@ -1,5 +1,6 @@
 # display
 export PS1='%B%n%F{red}@%f%m%b:%F{green}%(4~|.../|)%3~%f $ '
+export PS1=$'\e[1m\u\e[31m@\e[39m\H\e[0m:\e[33m\W\e[0m > '  # Bash alternative
 export LSCOLORS=fxgxcxdxbxegedabagacad
 
 # words
@@ -37,3 +38,7 @@ export HISTSIZE=2000
 # tar
 alias tar='tar --no-xattrs'  # Prevents inclusion of xattr headers which throws warnings on other systems
 export COPYFILE_DISABLE=1  # Prevents creation of ._ members in archive which store MacOS specific information
+
+# slurm
+export SACCT_FORMAT=jobid,user,account,partition,state,exitcode,start,end,elapsed
+export SLURM_TIME_FORMAT=relative
