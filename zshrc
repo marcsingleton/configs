@@ -1,5 +1,5 @@
 # display
-export PS1='%n%F{cyan}@%f%m %F{green}[%3~]%f$ '
+export PS1='%B%n%F{red}@%f%m%b:%F{green}%(4~|.../|)%3~%f $ '
 export LSCOLORS=fxgxcxdxbxegedabagacad
 
 # words
